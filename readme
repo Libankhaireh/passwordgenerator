@@ -1,0 +1,6 @@
+I created a website that will privide you with a password.
+for this website all you need to do is to input a number that is
+<8 but >128. that number will be the amount of digit your password will be.
+Then your password will be generated with: number, special character, lowercase and uppercase.
+
+
